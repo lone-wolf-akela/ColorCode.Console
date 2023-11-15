@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ColorCode.Core" Version="2.0.14" />
+    <PackageReference Include="ColorCode.Core" Version="2.0.15" />
   </ItemGroup>
 
 </Project>
